@@ -1,0 +1,10 @@
+C:\Users\home\source\repos\WorldOfTanks_hw5\Day7 (Tanks)\obj\Debug\Day7 (Tanks).csprojAssemblyReference.cache
+C:\Users\home\source\repos\WorldOfTanks_hw5\Day7 (Tanks)\obj\Debug\Day7 (Tanks).csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\WorldOfTanks_hw5\Day7 (Tanks)\bin\Debug\Day7 (Tanks).exe.config
+C:\Users\home\source\repos\WorldOfTanks_hw5\Day7 (Tanks)\bin\Debug\Day7 (Tanks).exe
+C:\Users\home\source\repos\WorldOfTanks_hw5\Day7 (Tanks)\bin\Debug\Day7 (Tanks).pdb
+C:\Users\home\source\repos\WorldOfTanks_hw5\Day7 (Tanks)\bin\Debug\MyClassLib.dll
+C:\Users\home\source\repos\WorldOfTanks_hw5\Day7 (Tanks)\bin\Debug\MyClassLib.pdb
+C:\Users\home\source\repos\WorldOfTanks_hw5\Day7 (Tanks)\obj\Debug\Day7 (Tanks).csproj.CopyComplete
+C:\Users\home\source\repos\WorldOfTanks_hw5\Day7 (Tanks)\obj\Debug\Day7 (Tanks).exe
+C:\Users\home\source\repos\WorldOfTanks_hw5\Day7 (Tanks)\obj\Debug\Day7 (Tanks).pdb

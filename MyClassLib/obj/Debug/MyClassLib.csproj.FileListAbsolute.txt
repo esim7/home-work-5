@@ -1,0 +1,6 @@
+C:\Users\home\source\repos\WorldOfTanks_hw5\MyClassLib\bin\Debug\MyClassLib.dll
+C:\Users\home\source\repos\WorldOfTanks_hw5\MyClassLib\bin\Debug\MyClassLib.pdb
+C:\Users\home\source\repos\WorldOfTanks_hw5\MyClassLib\obj\Debug\MyClassLib.csprojAssemblyReference.cache
+C:\Users\home\source\repos\WorldOfTanks_hw5\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\WorldOfTanks_hw5\MyClassLib\obj\Debug\MyClassLib.dll
+C:\Users\home\source\repos\WorldOfTanks_hw5\MyClassLib\obj\Debug\MyClassLib.pdb
